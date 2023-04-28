@@ -1,4 +1,5 @@
 # THIS IS A EMBEDDED PROJECTS COURSE WORK
+![ArduinoCAR](https://user-images.githubusercontent.com/99414068/235167137-bd5eecf7-2390-449f-8e47-9786a0cf8cd6.jpeg)
 
 ## How it works:
 
